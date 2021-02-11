@@ -1,0 +1,16 @@
+{
+  "pages": [
+    {
+      "id": "page1",
+      "url": "https://github.com/lizsegon"
+    },
+    {
+      "id": "page2",
+      "url": "https://www.upc.edu/ca/graus/ciencia-i-enginyeria-de-dades-barcelona-fib-etsetb-fme"
+    },
+    {
+      "id": "page3",
+      "url": "https://www.linkedin.com/"
+    }
+  ]
+}
